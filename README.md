@@ -11,10 +11,6 @@ Recently, I've been leveraging coding and simulation tools to develop innovative
 - ☀️ **Solar Cell Technology**: Advancing photovoltaic materials and devices for higher efficiency.
 - 💡 **Innovation**: Developing new methods and technologies to overcome existing challenges in my field.
 
-### 📚 Latest Projects
-- 🔋 **[Project 1](#)**: Description of your project related to solar cells.
-- ⚙️ **[Project 2](#)**: Description of another key project focusing on renewable energy.
-
 ### 📬 Let's Connect
 Feel free to explore my repositories, where I share my latest research and projects. I’m always open to collaboration and discussion, so don’t hesitate to reach out!
 
